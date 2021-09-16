@@ -9,7 +9,7 @@ Install the requirements:
 pip3 install -r requirements.txt
 ```
 
-Run the script:
+Run the script as root:
 ```console
 python3 get-platform-fingerprint.py --sst_executable=/root/intel-speed-select-utility-src-packages/intel-speed-select-v1.10/intel-speed-select --output=./output.json
 ```
